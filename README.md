@@ -1,4 +1,4 @@
 # Translations
 Translations for the plugin and webeditor
 
-This repository contains the translation files for the Deamon Editor plugin and website
+This repository can be found at https://github.com/nathans212/UltraEditorlanguage
